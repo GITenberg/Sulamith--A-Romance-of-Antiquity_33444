@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1552
     wikipedia: http://en.wikipedia.org/wiki/Aleksandr_Kuprin
 description: A novel about the love of King Solomon for a servant girl.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33444#Sulamith--A-Romance-of-Antiquity
 gutenberg_issued: '2010-08-16'
 gutenberg_type: Text
 identifiers:
